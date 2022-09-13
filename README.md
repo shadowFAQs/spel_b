@@ -2,7 +2,7 @@
 
 ![Spel B](spel_b.png)
 
-Spice up your life with **Spel B**, a handy little solver for the NYTimes' [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) puzzles. I wrote a CLI version of this years ago, and finally got around to adding a PyQt GUI.
+Spice up your life with **Spel B**, a handy little solver for the NY Times' [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) puzzles. I wrote a CLI version of this years ago, and finally got around to adding a PyQt GUI.
 
 I'm planning to create a native Linux app for this, but for now you need:
 
